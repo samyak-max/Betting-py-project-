@@ -1,0 +1,1 @@
+This is a simple cricket betting project built in python3 it uses beautiful soup, pandas, request libraries. It still contains some bugs and the betting is limited to batsman only. It's my first project :')
